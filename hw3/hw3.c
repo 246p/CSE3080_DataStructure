@@ -125,8 +125,3 @@ int findroot(int i){
     }
     return root;
 } 
-/*
-int findroot(int i){
-    for(;parent[i]>=0;i=parent[i]);
-} 
-*/
